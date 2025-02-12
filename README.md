@@ -64,7 +64,7 @@ To make the website live:
 
 ### **🔗 Live Website**
 You can check out my live website here:  
-👉 **[https://saadniftaj.github.io/my-website/](https://saadniftaj.github.io/my-website/)**
+👉 **[https://saadniftaj.github.io/my-website/](https://saadhaniftaj.github.io/my-website/)**
 
 ---
 
